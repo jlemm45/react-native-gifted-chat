@@ -76,6 +76,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-video": "^4.4.1"
   }
 }
